@@ -1,0 +1,3 @@
+To solve a puzzle, substitute it for the puzzle in puzzle.txt and run driver.rb("ruby driver.rb")
+
+Some basic tests for the solver are available in test_solver.rb
